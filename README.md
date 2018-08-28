@@ -6,7 +6,7 @@ m3u8直播视频主要用于移动端直播，为了方便调试就写到了PC�
 解决跨域 ： 在config/index.js 下配置代理即可。
 详细API 请参考 https://cloud.baidu.com/doc/MCT/Web-SDK.html  
               https://docs.videojs.com/
-示例只在生产环境下使用。             
+示例只在开发环境下使用。             
 
 ## Build Setup
 
